@@ -1,4 +1,4 @@
-# Makeup Transfer Using no Deep Learning components
+# Makeup Transfer with no Deep Learning
 
 This is the side project for [LADN](https://github.com/wangguanzhi/LADN), and provide a pre-processing pipeline for in-the-wild before and after makeup face images. The images need to be annonated as before-makeup or after-makeup.
 
